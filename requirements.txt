@@ -17,7 +17,7 @@ beautifulsoup4==4.11.1
 cachetools==5.2.0
 cchardet==2.1.7
 censys==2.1.6
-certifi==2022.5.18.1
+certifi==2023.7.22
 cffi==1.15.0
 charset-normalizer==2.0.12
 chromedriver-autoinstaller==0.3.1
